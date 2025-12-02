@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mohamed-Sallam178/Ecommerce-project/static/css/main.f65cb14c.css",
+    "main.js": "/Mohamed-Sallam178/Ecommerce-project/static/js/main.33e0e5de.js",
+    "static/js/453.29a5d989.chunk.js": "/Mohamed-Sallam178/Ecommerce-project/static/js/453.29a5d989.chunk.js",
+    "index.html": "/Mohamed-Sallam178/Ecommerce-project/index.html",
+    "main.f65cb14c.css.map": "/Mohamed-Sallam178/Ecommerce-project/static/css/main.f65cb14c.css.map",
+    "main.33e0e5de.js.map": "/Mohamed-Sallam178/Ecommerce-project/static/js/main.33e0e5de.js.map",
+    "453.29a5d989.chunk.js.map": "/Mohamed-Sallam178/Ecommerce-project/static/js/453.29a5d989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f65cb14c.css",
+    "static/js/main.33e0e5de.js"
+  ]
+}
