@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ecommerce-project/static/css/main.f65cb14c.css",
-    "main.js": "/Ecommerce-project/static/js/main.dd63515a.js",
-    "static/js/453.29a5d989.chunk.js": "/Ecommerce-project/static/js/453.29a5d989.chunk.js",
-    "index.html": "/Ecommerce-project/index.html",
-    "main.f65cb14c.css.map": "/Ecommerce-project/static/css/main.f65cb14c.css.map",
-    "main.dd63515a.js.map": "/Ecommerce-project/static/js/main.dd63515a.js.map",
-    "453.29a5d989.chunk.js.map": "/Ecommerce-project/static/js/453.29a5d989.chunk.js.map"
+    "main.css": "/CRUD-project/static/css/main.f65cb14c.css",
+    "main.js": "/CRUD-project/static/js/main.add2f312.js",
+    "static/js/453.29a5d989.chunk.js": "/CRUD-project/static/js/453.29a5d989.chunk.js",
+    "index.html": "/CRUD-project/index.html",
+    "main.f65cb14c.css.map": "/CRUD-project/static/css/main.f65cb14c.css.map",
+    "main.add2f312.js.map": "/CRUD-project/static/js/main.add2f312.js.map",
+    "453.29a5d989.chunk.js.map": "/CRUD-project/static/js/453.29a5d989.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f65cb14c.css",
-    "static/js/main.dd63515a.js"
+    "static/js/main.add2f312.js"
   ]
 }
